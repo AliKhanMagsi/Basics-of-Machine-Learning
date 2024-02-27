@@ -1,0 +1,11 @@
+Customer ID,Age,City,Income,Education Level,Last Purchase Date,Monthly Spending,Preferred Product Category
+1,32,New York,60000,Bachelor's,10/25/2023,250,Electronics
+2,28,Los Angeles,45000,Associate's,11/12/2023,180,Clothing
+3,40,Chicago,52000,High School,10/7/2023,300,Groceries
+4,,San Francisco,,,11/5/2023,150,Home Improvement
+5,25,Atlanta,38000,Diploma,10/15/2023,120,Beauty
+6,36,Seattle,70000,Master's,11/20/2023,400,Sports & Fitness
+7,22,Houston,,Diploma,10/28/2023,80,
+8,48,Miami,55000,Bachelor's,11/8/2023,220,Travel
+9,30,Denver,,Associate's,10/18/2023,100,
+10,27,Philadelphia,42000,High School,10/30/2023,160,Entertainment
